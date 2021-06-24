@@ -20,4 +20,4 @@ The example is the code to save graphs to files in Optuna.
 
 - contour
 
-![contour](https://user-images.githubusercontent.com/43694878/123291706-51698500-d54d-11eb-9e9e-52d4bf2a15a6.png)
+![contour](https://user-images.githubusercontent.com/43694878/123292751-52e77d00-d54e-11eb-8e45-4e62ba8e84f5.png)
